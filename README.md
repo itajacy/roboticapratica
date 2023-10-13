@@ -1,4 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/itajacy/roboticapratica)
+![GitHub](https://img.shields.io/github/license/itajacy/roboticapratica)
+
 
 
 # roboticapratica

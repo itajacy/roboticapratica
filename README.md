@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/itajacy/roboticapratica)
+![GitHub](https://img.shields.io/github/license/:user/:repo)
+
 # roboticapratica
 ## Curso - Projeto do site roboticapratica.com.br
 Aprenda direito e continue estudando

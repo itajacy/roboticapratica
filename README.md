@@ -1,5 +1,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/itajacy/roboticapratica)
 ![GitHub](https://img.shields.io/github/license/itajacy/roboticapratica)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/roboticapratica)
+
 
 
 
